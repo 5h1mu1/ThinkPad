@@ -1,0 +1,25 @@
+{
+    "liveServer.settings.donotShowInfoMsg": true,
+    "liveSassCompile.settings.formats": [
+        {
+            "format": "compressed",
+            "extensionName": ".min.css",
+            "savePath": "/dist/css"
+        }
+    ],
+    "liveSassCompile.settings.generateMap": false,
+    "css.remoteStylesheets": [
+        "https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+    ],
+    "prettier.jsxSingleQuote": false,
+    "prettier.singleQuote": false,
+    "editor.formatOnSave": true,
+    "turboConsoleLog.logMessagePrefix": "OUTPUT ",
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact",
+    },
+    "explorer.confirmDelete": false,
+    "editor.mouseWheelZoom": true,
+    "terminal.integrated.fontFamily": "monospace",
+    "workbench.iconTheme": "material-icon-theme",
+}
